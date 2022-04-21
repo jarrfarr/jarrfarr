@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-My name is Jarryd. I am co-captin on my school's FRC team, [Team 3161](team3161.ca).
+My name is Jarryd. I am co-captain on my school's FRC team, [Team 3161](team3161.ca).
 
 I enjoy building, creating and hacking devides/tech to see how they work, or to improve them. 
 
