@@ -14,7 +14,7 @@ Currently I have been only been posting my designs/CAD files to GrabCAD, but I w
 Awesome software I use daily:
 - Inkscape, GIMP, Darktable, LibreOffice
 - VLC, Resolve Studio, OBS, Handbrake
-- Signal, ProtonMail
+- Signal, ProtonMail, Chromium
 - SolidWorks, Fusion360, FreeCAD
 - The Portmaster
 
