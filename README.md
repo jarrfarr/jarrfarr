@@ -11,25 +11,27 @@ I prefer using opensource alternatives where possible, and as a casual freelance
 Currently I have been only been posting my designs/CAD files to GrabCAD, but I will slowly port them over to GitHub...
 
 ---
-Awesome software I use daily:
-- Inkscape, GIMP, Darktable, LibreOffice
-- VLC, Resolve Studio, OBS, Handbrake
-- Signal, ProtonMail, Chromium
-- SolidWorks, Fusion360, FreeCAD
-- The Portmaster
-
----
 Some projects I'm working on include:
-- continuously upgrading my Ender 3 Pro
+- Continuously upgrading my Ender 3 Pro
 - Parametric shop system
 - FIRST Robotics Competiton Parts Library (contact for link)
 - Getting my Ham Radio License
 - Buidling a budget home server/NAS
-- Custom desktop CNC
+- Custom desktop CNC router
+
+---
+Awesome software I use daily:
+- [Inkscape 1.2](https://inkscape.org/), [GIMP](https://www.gimp.org/), [Darktable](https://www.darktable.org/), [LibreOffice](https://www.libreoffice.org/)
+- [VLC Media Player](https://www.videolan.org/), [Resolve Studio 17](https://www.blackmagicdesign.com/ca/products/davinciresolve), [OBS](https://obsproject.com/), [Handbrake](https://handbrake.fr/)
+- [Signal](https://signal.org/), [ProtonMail](https://protonmail.com/)
+- [SolidWorks](https://www.solidworks.com/), [Fusion360](https://www.autodesk.ca/en/products/fusion-360/overview), [FreeCAD](https://www.freecadweb.org/)
+- [Portmaster](https://safing.io/portmaster/)
+
+I highly recomend using Inkscape 1.2 (beta) as it has a TON of new features inlcuding multi-page suppport, and it's decently stable. I also love this [batch export extension](https://github.com/StefanTraistaru/batch-export) by Stefan Traistaru.
 
 ---
 FRC Ressources
-- [✨Manto Scouting App✨](manto.team3161.ca)
+- [✨Manto Scouting App✨](https://manto.team3161.ca/)
 - [The Blue Alliance](https://www.thebluealliance.com/), [GitHub Page](https://github.com/the-blue-alliance/the-blue-alliance)
 - [Chief Delphi](https://www.chiefdelphi.com/)
 - [r/FRC](https://reddit.com/r/frc)
