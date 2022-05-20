@@ -25,7 +25,7 @@ Awesome software I use daily:
 - [VLC Media Player](https://www.videolan.org/), [Resolve Studio 17](https://www.blackmagicdesign.com/ca/products/davinciresolve), [OBS](https://obsproject.com/), [Handbrake](https://handbrake.fr/)
 - [Signal](https://signal.org/), [ProtonMail](https://protonmail.com/)
 - [SolidWorks](https://www.solidworks.com/), [Fusion360](https://www.autodesk.ca/en/products/fusion-360/overview), [FreeCAD](https://www.freecadweb.org/)
-- Cura, probably going to move to SuperSlicer
+- Cura as my daily, but SuperSlicer is looking pretty good.
 
 I highly recomend using Inkscape 1.2 (beta) as it has a TON of new features inlcuding multi-page suppport, and it's decently stable. I also love this [batch export extension](https://github.com/StefanTraistaru/batch-export) by Stefan Traistaru.
 
