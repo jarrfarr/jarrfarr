@@ -21,13 +21,13 @@ Some projects I'm working on include:
 
 ---
 Awesome software I use daily:
-- [Inkscape 1.2](https://inkscape.org/), [GIMP](https://www.gimp.org/), [Darktable](https://www.darktable.org/), [LibreOffice](https://www.libreoffice.org/)
-- [VLC Media Player](https://www.videolan.org/), [Resolve Studio 17](https://www.blackmagicdesign.com/ca/products/davinciresolve), [OBS](https://obsproject.com/), [Handbrake](https://handbrake.fr/)
+- [Inkscape](https://inkscape.org/), [RawTherapee](https://www.rawtherapee.com/),
+- [VLC Media Player](https://www.videolan.org/), [Resolve Studio 18](https://www.blackmagicdesign.com/ca/products/davinciresolve), [OBS](https://obsproject.com/), [Handbrake](https://handbrake.fr/)
 - [Signal](https://signal.org/), [ProtonMail](https://protonmail.com/)
 - [SolidWorks](https://www.solidworks.com/), [Fusion360](https://www.autodesk.ca/en/products/fusion-360/overview), [FreeCAD](https://www.freecadweb.org/)
-- Cura as my daily, but SuperSlicer is looking pretty good.
+- SuperSlicer, moved from Cura.
 
-I highly recomend using Inkscape 1.2 (beta) as it has a TON of new features inlcuding multi-page suppport, and it's decently stable. I also love this [batch export extension](https://github.com/StefanTraistaru/batch-export) by Stefan Traistaru.
+I highly recomend using Inkscape 1.X as it has a TON of new features inlcuding multi-page suppport, and it's decently stable.
 
 ---
 FRC Ressources
