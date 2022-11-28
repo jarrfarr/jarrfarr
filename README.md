@@ -1,7 +1,5 @@
 ### Hey! 👋
 
-My name is Jarryd. I am co-captain on my school's FRC team, [Team 3161](team3161.ca).
-
 I enjoy building, creating and hacking devices/tech to see how they work, or to improve them. 
 
 I am currently working on an open source shop organization system that uses standard design philosophies and dimensions, for workbencehes, cabinets, toolchests, etc.
