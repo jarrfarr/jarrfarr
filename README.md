@@ -24,6 +24,7 @@ Awesome software I use daily:
 - [Signal](https://signal.org/), [ProtonMail](https://protonmail.com/)
 - [SolidWorks](https://www.solidworks.com/), [Fusion360](https://www.autodesk.ca/en/products/fusion-360/overview), [FreeCAD](https://www.freecadweb.org/)
 - SuperSlicer, moved from Cura.
+- NickVision Paranolic one of the best yt-dlp frontends
 
 I highly recomend using Inkscape 1.X as it has a TON of new features inlcuding multi-page suppport, and it's decently stable.
 
